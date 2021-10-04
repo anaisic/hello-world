@@ -1,3 +1,3 @@
 # my-comicampus-hello-world
-my first repository
-Hi! My name is Ana
+
+Hi! My name is Ana and this is my first repository
